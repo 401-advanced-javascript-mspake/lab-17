@@ -31,4 +31,4 @@ Open three terminals and run the three files:
 * What assertions need to be / should be made?  All of them.  
   
 #### UML  
-Link to an image of the UML for your application and response to events
+![uml](https://github.com/401-advanced-javascript-mspake/lab-17/blob/refactoring-to-use-sockets/assets/uml.jpg)

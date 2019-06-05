@@ -17,6 +17,10 @@ const events = {
   error: 'error',
 };
 
+/**
+ * alterFile(file)
+ * @param {*} file - File to read, uppercase, and write
+ */
 async function alterFile(file) {
   const data = await readWrite.read(file);
   const text = await readWrite.uppercase(data);

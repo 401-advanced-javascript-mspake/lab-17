@@ -14,7 +14,7 @@
   "scripts": {
     "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json",
     "test": "jest --verbose --coverage",
-    "lint": "eslint '**/*.js'"
+    "lint": "eslint"
   },
   "keywords": [],
   "author": "",
